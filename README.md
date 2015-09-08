@@ -1,5 +1,7 @@
 # space:ui [![Build Status](https://travis-ci.org/CodeAdventure/space-ui.svg?branch=master)](https://travis-ci.org/CodeAdventure/space-ui)
 
+[![Join the chat at https://gitter.im/fr0zen/space-ui](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fr0zen/space-ui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **Meteor UI framework inspired by [React](http://facebook.github.io/react/)
 and [Flux](http://facebook.github.io/flux/docs/overview.html).**
 
